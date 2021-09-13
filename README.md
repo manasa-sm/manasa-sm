@@ -38,17 +38,18 @@
 
 <br>
   
-<h2 align="center"> My GitHub Stats </h2>  
+<h2 align="center"> My GitHub Stats </h2> <br> 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=manasa-sm&layout=compact&hide=html&theme=blueberry" alt="manasa-sm" />
+    <img src="https://github-readme-stats.vercel.app/api?username=manasa-sm&count_private=true&layout=compact&hide=html&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF" alt="manasa-sm" />
     &nbsp; &nbsp;
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasa-sm&layout=compact&theme=blueberry" alt="manasa-sm" />
- 
+<!--       <br><br><br>
+      <p align="center">
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasa-sm&layout=compact&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF" alt="manasa-sm" />      
+      </p> -->
   </a>
 </p>
-
+<br><br>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=manasa-sm&theme=react-dark"/>
 </p>
@@ -59,4 +60,4 @@
   <a target="_blank"href="https://www.linkedin.com/in/manasa-sm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h1 align="center">🚀 Do what you like, be who you want. </h1>
+<h1 align="center">🚀 do what you like, be who you want. </h1>
