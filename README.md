@@ -50,9 +50,9 @@
   </a>
 </p>
 <br><br>
-<p align="center">
+<!--<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=manasa-sm&theme=react-dark"/>
-</p>
+</p> -->
 
 <h2 align="center"> Reach out to me on </h2>
 <p align="center">
